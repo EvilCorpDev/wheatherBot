@@ -1,0 +1,13 @@
+co2Sensor-client:
+  ppm:
+    host: 'http://www.mocky.io/v2/5c65e06430000070008c2609' #'http://www.mocky.io/v2/5c65d5a83300003b1db99fd6'
+    context-path: '' #co2
+
+co2-bot:
+  chat-id: '211278381'
+  token: '739342908:AAEwCwD7FBzJzRUy_tevTt7g57PUKICLldI'
+
+ventilate:
+  panic:
+    sticker.id: 'CAADAgAD1QEAAhZ8aAOLdUaFdBBqtwI'
+    ppm: 900
